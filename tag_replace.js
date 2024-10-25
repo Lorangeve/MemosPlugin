@@ -1,3 +1,4 @@
+debugger;
 (function (params) {
     ['https://code.jquery.com/jquery-3.7.1.min.js'].forEach((s) => {
         const script = document.createElement('script');
